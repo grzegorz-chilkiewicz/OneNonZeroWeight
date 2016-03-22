@@ -1,0 +1,3 @@
+# OneNonZeroWeight
+
+ > sbt run
